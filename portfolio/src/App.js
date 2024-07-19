@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App">
       <NavBar/>
-      <h1>Nethum Imsara Hewaarachchi</h1>
+      <h1 className="text-5xl font-bold underline">
+        Nethum Imsara Hewaarachchi
+      </h1>
     </div>
   );
 }
