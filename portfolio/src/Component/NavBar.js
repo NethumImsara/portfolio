@@ -5,7 +5,7 @@ export default function NavBar() {
     <nav className="bg-gray-800 p-7">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white text-xl font-bold">
-          My Portfolio
+          NethumDev
         </div>
         <div>
           <a href="#home" className="text-white px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">Home</a>
